@@ -1,17 +1,10 @@
 # terraform-book
 Exercises from The Terraform Book by James Turnbull
 
-# Our first configuration for Terraform
+# Directories
 
-An initial configuration for Terraform.
+`base`: First exercise
 
-## Usage
-
-```
-$ terraform plan
-$ terraform apply
-```
-
-## License
+# License
 
 MIT
