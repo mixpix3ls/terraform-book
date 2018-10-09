@@ -8,3 +8,7 @@ Exercises from The Terraform Book by James Turnbull
 # License
 
 MIT
+
+# Test Area
+
+This is a test.
